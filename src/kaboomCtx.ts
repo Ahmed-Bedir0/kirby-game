@@ -1,4 +1,4 @@
-import type { KaboomCtx } from "kaboom";
+import kaboom from "kaboom";
 import { scale } from "./constants";
 
 export const k = kaboom({
