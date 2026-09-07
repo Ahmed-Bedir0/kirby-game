@@ -1,4 +1,4 @@
-import { KaboomCtx } from "kaboom";
+import type { KaboomCtx } from "kaboom";
 import { scale } from "./constants";
 
 export async function makeMap(k: KaboomCtx, name: string) {
